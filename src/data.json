@@ -1,0 +1,199 @@
+{
+  "personal": {
+    "name": "Aadhya Anand",
+    "title": "Computer Engineering @ Waterloo",
+    "email": "aadhya.anand@gmail.com",
+    "phone": "+1 (437) 235 4834",
+    "location": "Toronto, Canada",
+    "linkedin": "https://www.linkedin.com/in/aadhya-anand/",
+    "github": "https://github.com/astr-droid",
+    "portfolio": "https://aanand.uwce.ca/",
+    "bio": "Computer Engineering student at the University of Waterloo. I am interested in AI/ML, firmware and software engineering. When I'm not coding, you can find me reading, listening to music, drawing, or watching movies and TV shows.",
+    "photo": "https://t3.ftcdn.net/jpg/02/99/04/20/360_F_299042079_vGBD7wIlSeNl7vOevWHiL93G4koMM967.jpg",
+    "funFacts": [
+      "Researched Riemannian geometry @ UofT",
+      "CS50p certified via Harvard",
+      "Schulich Leader nominee"
+    ]
+  },
+
+  "experience": [
+    {
+      "company": "Generis Group",
+      "role": "Junior Fullstack Intern",
+      "period": "Jan 2026 – Apr 2026",
+      "bullets": [
+        "Maintained and updated 21 live event websites in WordPress, ensuring uptime, content accuracy, and performance under tight production timelines.",
+        "Developed full-stack web applications using React, PHP, and SQL, contributing to internal tooling and client-facing systems.",
+        "Built custom WordPress plugins in PHP and automated recurring workflows in n8n, reducing manual staff overhead.",
+        "Integrated and maintained Salesforce workflows to improve operational data consistency across teams.",
+        "Provided IT support including workstation setup, hardware configuration, and peripheral troubleshooting; conducted equipment audits to assess lifecycle status and upgrade requirements."
+      ],
+      "featured": true
+    },{
+      "company": "UW Orbital",
+      "role": "Technical Team Member",
+      "period": "Jan 2026 – Apr 2026",
+      "bullets": [
+        "Analyze satellite radio subsystems using DSP to track data streams and diagnose execution faults.",
+        "Researched Single Event Upsets (SEUs), establishing structural design rules to protect flight computing systems."
+      ],
+      "featured": true
+    },{
+      "company": "University of Toronto",
+      "role": "Student Researcher",
+      "period": "Jan 2025 – Jun 2025",
+      "bullets": [
+        "Developed mathematical models for geometric distance functions on arbitrary-dimensional surfaces with applications in topology and general relativity.",
+        "Processed and analyzed complex datasets in Python applying manifold learning techniques.",
+        "Co-authored research paper on distance metrics in curved spacetime."
+      ],
+      "featured": true
+    },
+    {
+      "company": "Proton Learning Centre",
+      "role": "Salesforce / Support Developer (Intern)",
+      "period": "Jun 2022 – Present",
+      "bullets": [
+        "Digitized 1,000+ student records using custom Salesforce apps, reducing admin workload by 30%.",
+        "Built and maintained internal web tools in PHP, SQL, and HTML/CSS for reporting and data management.",
+        "Automated reporting workflows for faculty using Python and database queries."
+      ],
+      "featured": false
+    },
+    {
+      "company": "Royal Tech Solutions",
+      "role": "Administrative Assistant",
+      "period": "Mar 2020 – Present",
+      "bullets": [
+        "Developed and managed Salesforce CRM for 500+ cable TV customer accounts.",
+        "Provided technical troubleshooting and maintenance for client systems.",
+        "Managed synchronized client data across multiple external platforms."
+      ],
+      "featured": false
+    },
+    {
+      "company": "Youreka Toronto",
+      "role": "High School Investigator",
+      "period": "Feb 2024 – May 2024",
+      "bullets": [
+        "Analyzed the relationship between air pollution and melanoma incidence using R on large-scale datasets.",
+        "Applied statistical methods and data visualization to identify trends across three datasets.",
+        "Authored and presented scientific findings at symposiums; won 1st place at Toronto regional."
+      ],
+      "featured": false
+    },
+    {
+      "company": "Girls E-Mentorship",
+      "role": "Scholarship Recipient & Mentee",
+      "period": "Jul 2024 – May 2025",
+      "bullets": [
+        "Selected from competitive pool for 9-month one-on-one mentorship program.",
+        "Awarded $2,000 GEM scholarship for exceptional initiative and financial need.",
+        "Participated in Google enrichment workshops and job-shadowing opportunities."
+      ],
+      "featured": false
+    },
+    {
+      "company": "Great Lunar Expedition for Everyone (GLEE)",
+      "role": "LunaSat Programmer & STEM Ambassador",
+      "period": "Jun 2022 – Present",
+      "bullets": [
+        "Programmed affordable lunar landers (LunaSats) for NASA-sponsored moon mission.",
+        "Led STEM outreach programs educating 200+ students about space technology."
+      ],
+      "featured": false
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "ExoDiscover",
+      "tech": ["Python", "Flask", "React", "HTML/CSS", "Three.js","scikit-learn"],
+      "description":
+        "AI-powered exoplanet exploration platform integrating NASA datasets, dual ML inference pipelines, and interactive 3D visualization, developed in 48 hours for the 2025 NASA Space Apps Challenge 2025 top-4 finalist project.",
+      "status": "complete",
+      "featured": true,
+      "demo": "",
+      "code": "https://github.com/wentingcoding960206/ExoDiscover"
+    },{
+      "name": "Manifold Music Recommendation Engine",
+      "tech": ["Python", "UMAP", "Spotify API", "scikit-learn"],
+      "description":
+        "ML system mapping songs to 2D manifold space using audio features, achieving 40% more accurate genre-agnostic recommendations than metadata-based systems.",
+      "status": "in-progress",
+      "featured": true,
+      "demo": "",
+      "code": "https://github.com/astr-droid/manifold-based-music-recommendations"
+    },
+    {
+      "name": "Pulsar Classification System",
+      "tech": ["Python", "scikit-learn", "pandas", "NumPy"],
+      "description":
+        "Trained ML model with 92% accuracy identifying pulsars from radio telescope pulse profile datasets using feature engineering and data visualization.",
+      "status": "in-progress",
+      "featured": true,
+      "demo": "",
+      "code": "https://github.com/astr-droid/Pulsar-Classification-Modeling"
+    },
+    {
+      "name": "Ninja Blocks",
+      "tech": ["JavaScript", "Matter.js", "p5.js"],
+      "description":
+        "Interactive physics-based browser game with real-time collision physics and dynamic visual effects.",
+      "status": "in-progress",
+      "featured": false,
+      "demo": "https://aanand.uwce.ca/Ninja-Blocks2.0/",
+      "code": "https://github.com/astr-droid/Ninja-Blocks2.0"
+    },
+    {
+      "name": "Student Database",
+      "tech": ["SQL", "PHP", "HTML/CSS"],
+      "description":
+        "Relational database system for Proton Learning Centre digitizing 1,000+ student records with CRUD operations and automated attendance tracking.",
+      "status": "complete",
+      "featured": false,
+      "demo": "",
+      "code": ""
+    }
+  ],
+
+  "skills": {
+    "Languages": ["Python", "JavaScript", "Java", "SQL", "PHP", "R", "MATLAB", "HTML/CSS"],
+    "ML & Data": ["scikit-learn", "pandas", "NumPy", "TensorFlow", "UMAP", "matplotlib"],
+    "Databases": ["Salesforce", "Microsoft Access", "MySQL", "NoSQL"],
+    "Concepts": ["Data Pre-processing", "Feature Engineering", "OOP", "Topology", "Riemannian Geometry"]
+  },
+
+  "education": [
+    {
+      "institution": "University of Waterloo",
+      "degree": "B.A.Sc. Computer Engineering (Co-op)",
+      "period": "2025 – 2030",
+      "details": []
+    },
+    {
+      "institution": "Bloor Collegiate Institute",
+      "degree": "TOPS Program (OSSD)",
+      "period": "2021 – 2025",
+      "details": ["GPA: 98%", "AP Physics · AP Calculus · AP Computer Science", "Honour Roll 2021–2024"]
+    }
+  ],
+
+  "certifications": [
+    { "name": "CS50p: Introduction to Programming with Python", "issuer": "Harvard University", "year": 2024 },
+    { "name": "Complete C++ Programming Foundations", "issuer": "LinkedIn Learning", "year": 2025 }
+  ],
+
+  "awards": [
+    { "title": "Schulich Leader Scholarship Nominee", "year": 2025, "note": "Top 1% STEM candidates nationally" },
+    { "title": "Youreka Toronto — 1st Place, Regional Symposium", "year": 2024, "note": "" }
+  ],
+
+  "languages": [
+    { "name": "English", "level": "Native" },
+    { "name": "French", "level": "Intermediate (B2)" },
+    { "name": "Malayalam", "level": "Conversational" }
+  ]
+}
+
