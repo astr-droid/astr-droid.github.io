@@ -57,7 +57,7 @@ export default function Portfolio() {
       </main>
 
       <footer className="footer">
-        designed & built by aadhya anand ( ´･･)ﾉ(._.`)
+        designed & built by aadhya anand ( ´･･)ﾉ(._.`) | built using react and deployed on github pages
       </footer>
     </>
   );
